@@ -1,0 +1,20 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="detail_card_top_margin_200dp">200dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="scrimHeight">20dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="padding40dp">40dp</dimen>
+    <dimen name="padding50dp">50dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="padding_60dp">60dp</dimen>
+
+</resources>
