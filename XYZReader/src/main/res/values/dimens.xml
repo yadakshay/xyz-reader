@@ -16,5 +16,6 @@
     <dimen name="padding50dp">50dp</dimen>
     <dimen name="margin_6dp">6dp</dimen>
     <dimen name="padding_60dp">60dp</dimen>
+    <dimen name="magin_50dp">50dp</dimen>
 
 </resources>
